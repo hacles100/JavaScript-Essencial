@@ -32,6 +32,8 @@ const oddAges = ages.filter(function(age){
 console.log(oddAges)
 
 
+
+
 // problema: dada a lista, pegar a soma de todas as idades
 // Reduce: reduzir todos os elementos da lista por um so elemento
 
